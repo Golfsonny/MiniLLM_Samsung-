@@ -1,0 +1,12 @@
+{
+	"product_name": "Galaxy S25 Edge",
+	"processor": {
+		"cpu_speed" : "4.47Ghz",
+		"cpu_type" : "Octa-Cpre"
+	},
+	"display": {
+		"size" : "169.1mm (6.7\" full rectangle)",
+		"refresh_rate": "120 Hz",
+		"resolution" : "3120 x 1440 (Quad Hd+)"
+	}
+}
