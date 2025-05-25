@@ -15,3 +15,10 @@ edge.html → 삼성 공식 홈페이지에서 실시간으로 받아온 HTML
 서버 없이도 HTML 분석 테스트 가능
 재현성 보장
 예전 데이터를 기반으로 결과를 재현할 수 있음 (예: 테스트할 때 유리)
+
+
+```bash
+git config --global --list
+git config --global user.name "yourname"
+git config --global user.email youremail.@gmail.com
+```
